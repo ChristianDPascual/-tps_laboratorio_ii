@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Calculadora de Christian Pascual del curso 2°A/1.0.0": {
+        "dependencies": {
+          "ClassLibrary": "1.0.0"
+        },
+        "runtime": {
+          "Calculadora de Christian Pascual del curso 2°A.dll": {}
+        }
+      },
+      "ClassLibrary/1.0.0": {
+        "runtime": {
+          "ClassLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Calculadora de Christian Pascual del curso 2°A/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClassLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
